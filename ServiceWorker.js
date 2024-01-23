@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Magus-0.1";
 const contentToCache = [
-    "Build/Attempt 3.loader.js",
-    "Build/Attempt 3.framework.js.unityweb",
-    "Build/Attempt 3.data.unityweb",
-    "Build/Attempt 3.wasm.unityweb",
+    "Build/Magus 0.3.loader.js",
+    "Build/Magus 0.3.framework.js.unityweb",
+    "Build/Magus 0.3.data.unityweb",
+    "Build/Magus 0.3.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
