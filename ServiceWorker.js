@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Magus-0.6";
 const contentToCache = [
-    "Build/Magus 0.6.loader.js",
-    "Build/Magus 0.6.framework.js",
-    "Build/Magus 0.6.data",
-    "Build/Magus 0.6.wasm",
+    "Build/Magus 0.7.loader.js",
+    "Build/Magus 0.7.framework.js",
+    "Build/Magus 0.7.data",
+    "Build/Magus 0.7.wasm",
     "TemplateData/style.css"
 
 ];
